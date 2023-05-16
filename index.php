@@ -1,5 +1,16 @@
 <form >
     <fieldset>
+        <legend>ЭТО НОВАЯ ФОРМА"</legend>
+        a: <input type="text" name="aFirst"> <br>
+        b: <input type="text" name="bFirst"> <br>
+        c: <input type="text" name="cFirst"> <br>
+        <input type="submit" value="Рассчитать">
+    </fieldset>
+</form>
+
+
+<form >
+    <fieldset>
         <legend>Задание 1</legend>
         a: <input type="text" name="aFirst"> <br>
         b: <input type="text" name="bFirst"> <br>
