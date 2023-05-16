@@ -1,0 +1,16 @@
+#здесь указываем те файлы, которые git будет игнорировать
+# папки
+.idea/
+.vs/
+node_modules/
+
+#файлы
+Thumbs.db
+.DS_Store
+desktop.ini
+package-lock.json
+log/*
+# а  черехз ! даем доступ
+
+
+
